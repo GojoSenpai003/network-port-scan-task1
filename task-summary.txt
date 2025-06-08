@@ -1,0 +1,13 @@
+Task 1: Network Port Scanning
+
+I completed this task using Nmap and Wireshark.
+
+Steps followed:
+- Installed Nmap and identified my local IP range.
+- Used the command: nmap -sS 192.168.1.0/24 to scan for open ports on my local network.
+- Collected data about IP addresses, open ports, and services.
+- Captured the scan traffic using Wireshark for deeper analysis.
+- Observed the types of packets being sent during the scan.
+- Saved the scan result as a screenshot and the packet capture file for documentation.
+
+This task helped me understand how to detect active devices and recognize exposed services using basic network reconnaissance tools.
